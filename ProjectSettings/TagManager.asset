@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Bullet
+  - Blade
+  - Forcefield
   layers:
   - Default
   - TransparentFX

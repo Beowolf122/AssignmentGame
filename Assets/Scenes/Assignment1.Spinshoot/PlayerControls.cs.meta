@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e01ddd9cd9ade6d478205c61fb5c38e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - Blade: {instanceID: 0}
+  - Forcefield: {instanceID: 0}
+  - Sprite1: {fileID: -38805106, guid: 2f27af2f9dd0db94fae0e1187033aa9e, type: 3}
+  - Sprite2: {fileID: 1554126876, guid: 2f27af2f9dd0db94fae0e1187033aa9e, type: 3}
+  - Sprite3: {fileID: -1295851769, guid: 2f27af2f9dd0db94fae0e1187033aa9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
